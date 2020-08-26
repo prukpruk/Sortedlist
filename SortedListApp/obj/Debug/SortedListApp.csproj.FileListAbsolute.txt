@@ -1,0 +1,30 @@
+C:\Users\Supagrit Ninkaesorn\source\repos\SortedListApp\SortedListApp\bin\Debug\SortedListApp.exe.config
+C:\Users\Supagrit Ninkaesorn\source\repos\SortedListApp\SortedListApp\bin\Debug\SortedListApp.exe
+C:\Users\Supagrit Ninkaesorn\source\repos\SortedListApp\SortedListApp\bin\Debug\SortedListApp.pdb
+C:\Users\Supagrit Ninkaesorn\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csprojAssemblyReference.cache
+C:\Users\Supagrit Ninkaesorn\source\repos\SortedListApp\SortedListApp\obj\Debug\MainWindow.g.cs
+C:\Users\Supagrit Ninkaesorn\source\repos\SortedListApp\SortedListApp\obj\Debug\App.g.cs
+C:\Users\Supagrit Ninkaesorn\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp_MarkupCompile.cache
+C:\Users\Supagrit Ninkaesorn\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp_MarkupCompile.lref
+C:\Users\Supagrit Ninkaesorn\source\repos\SortedListApp\SortedListApp\obj\Debug\MainWindow.baml
+C:\Users\Supagrit Ninkaesorn\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.g.resources
+C:\Users\Supagrit Ninkaesorn\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.Properties.Resources.resources
+C:\Users\Supagrit Ninkaesorn\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csproj.GenerateResource.cache
+C:\Users\Supagrit Ninkaesorn\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csproj.CoreCompileInputs.cache
+C:\Users\Supagrit Ninkaesorn\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.exe
+C:\Users\Supagrit Ninkaesorn\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.pdb
+D:\Borntodev\SortedListApp\SortedListApp\bin\Debug\SortedListApp.exe.config
+D:\Borntodev\SortedListApp\SortedListApp\bin\Debug\SortedListApp.exe
+D:\Borntodev\SortedListApp\SortedListApp\bin\Debug\SortedListApp.pdb
+D:\Borntodev\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csprojAssemblyReference.cache
+D:\Borntodev\SortedListApp\SortedListApp\obj\Debug\MainWindow.g.cs
+D:\Borntodev\SortedListApp\SortedListApp\obj\Debug\App.g.cs
+D:\Borntodev\SortedListApp\SortedListApp\obj\Debug\SortedListApp_MarkupCompile.cache
+D:\Borntodev\SortedListApp\SortedListApp\obj\Debug\SortedListApp_MarkupCompile.lref
+D:\Borntodev\SortedListApp\SortedListApp\obj\Debug\MainWindow.baml
+D:\Borntodev\SortedListApp\SortedListApp\obj\Debug\SortedListApp.g.resources
+D:\Borntodev\SortedListApp\SortedListApp\obj\Debug\SortedListApp.Properties.Resources.resources
+D:\Borntodev\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csproj.GenerateResource.cache
+D:\Borntodev\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csproj.CoreCompileInputs.cache
+D:\Borntodev\SortedListApp\SortedListApp\obj\Debug\SortedListApp.exe
+D:\Borntodev\SortedListApp\SortedListApp\obj\Debug\SortedListApp.pdb
